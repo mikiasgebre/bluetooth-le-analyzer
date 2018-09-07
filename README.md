@@ -4,12 +4,11 @@
 [![License](http://badge.kloud51.com/pypi/l/html2text.svg)](LICENSE.md)
 
 
-[![Download Bluetooth LE Analyzer from Google Play](http://www.android.com/images/brand/android_app_on_play_large.png)](https://play.google.com/store/apps/details?id=com.github.akinaru.bleanalyzer)
 
 
 Android app showing Bluetooth advertising packets and measuring reception rate using one RFduino module
 
-![screenshot](img/screen.gif)
+
 
 ## Build
 
